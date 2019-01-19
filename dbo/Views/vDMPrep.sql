@@ -1,6 +1,4 @@
-﻿
-
--- vDMPrep will be used as a data source by the other data mining views.  
+﻿-- vDMPrep will be used as a data source by the other data mining views.  
 -- Uses DW data at customer, product, day, etc. granularity and
 -- gets region, model, year, month, etc.
 CREATE VIEW [dbo].[vDMPrep]
